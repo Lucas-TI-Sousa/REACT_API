@@ -24,4 +24,4 @@ class TwoFaController{
 
 }
 
-module.exports = new TwoFaController()
+module.exports = new TwoFaController();
